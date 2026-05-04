@@ -4,4 +4,4 @@ const lastName  = "Naranjo's";
 
 const fullName = `El nombre es: ${firstName} ${lastName}`;
 
-console.log({ lastName });
+console.log({ fullName });
